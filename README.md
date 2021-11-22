@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabi!</h1>
-<h3 align="center">A FullStack Trainee Java Dev</h3>
+<h3 align="center">A FullStack Java/JavaScript Dev</h3>
 
 - 👀 I’m interested in **Java, JavaScript and play games**
 
