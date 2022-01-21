@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabi!</h1>
-<h3 align="center">A FullStack Java/JavaScript Dev</h3>
+<h3 align="center">A Node/Java Dev</h3>
 
-- 👀 I’m interested in **Java, JavaScript and play games**
+- 👀 I’m interested in **NodeJs, Java and JS things**
 
 - 💬 My last project was [evn - EventManager](https://github.com/thadek/eventmanager)
 
