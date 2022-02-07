@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in **NodeJs, Java and JS things**
 
-- 💬 My last project was [evn - EventManager](https://github.com/thadek/eventmanager)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
