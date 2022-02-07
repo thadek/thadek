@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabi!</h1>
-<h3 align="center">A Node/Java Dev</h3>
+<h3 align="center">Backend Jr. dev</h3>
 
 - 👀 I’m interested in **NodeJs, Java and JS things**
 
