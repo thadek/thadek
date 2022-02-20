@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabi!</h1>
 <h3 align="center">Backend Jr. dev</h3>
 
-- 👀 I’m interested in **NodeJs, Java and JS things**
+- 👀 I’m interested in **Java and JS things**
+-  I'm currently learning about Docker and Go
 
 
 <h3 align="left">Connect with me:</h3>
