@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm Gabi!</h1>
-<h3 align="center">Backend Jr. dev</h3>
+<h1 align="center">Hi 👋, Gabi here</h1>
+<h3 align="center">I'm a Jr. developer</h3>
 
-- 👀 I’m interested in **Java and JS things**
--  I'm currently learning about Docker and Go
+- 🌱 I'm currently learning:
 
+![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gpamic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gpamic" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gabipamic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabipamic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gpamic" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="gpamic"  /></a>
+<a href="https://www.hackerrank.com/gabipamic" target="blank"><img align="center" src="https://img.shields.io/badge/-hackerRank-000000?logo=HackerRank&style=for-the-badge" alt="gabipamic"  /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools</h3>
+
+![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Sequelize-52B0E7?logo=Sequelize&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/-Jira-0052CC?logo=Jira%20Software&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Swagger-000000?logo=Swagger&style=for-the-badge)
+
+
+<h3 align="left">Stats</h3>
+
+![Stats](https://github-readme-stats.vercel.app/api/?username=thadek&hide=css,pug&layout=compact&theme=github_dark )
 
