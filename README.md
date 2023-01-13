@@ -30,7 +30,5 @@
 ![image](https://img.shields.io/badge/-Swagger-000000?logo=Swagger&style=for-the-badge)
 
 
-<h3 align="left">Stats</h3>
-
 
 
