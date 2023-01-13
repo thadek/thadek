@@ -32,5 +32,5 @@
 
 <h3 align="left">Stats</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=thadek&hide=css,pug&layout=compact&theme=github_dark )
+
 
