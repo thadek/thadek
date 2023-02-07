@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Gabi here</h1>
-<h3 align="center">I'm a Jr. developer</h3>
 
 - 🌱 I'm currently learning:
 
