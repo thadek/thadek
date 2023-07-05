@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning:
 
-![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+
 ![image](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
+![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white&style=for-the-badge)
@@ -22,7 +23,6 @@
 ![image](https://img.shields.io/badge/-Sequelize-52B0E7?logo=Sequelize&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/-Jira-0052CC?logo=Jira%20Software&logoColor=white&style=for-the-badge)
