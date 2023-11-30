@@ -4,12 +4,11 @@
 
 
 ![image](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gpamic" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="gpamic"  /></a>
-<a href="https://www.hackerrank.com/gabipamic" target="blank"><img align="center" src="https://img.shields.io/badge/-hackerRank-000000?logo=HackerRank&style=for-the-badge" alt="gabipamic"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -17,7 +16,8 @@
 ![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-PHP-474A8A?logo=PHP&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-React-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white&style=for-the-badge)
