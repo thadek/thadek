@@ -15,6 +15,7 @@
 <h3 align="left">Languages and Tools</h3>
 
 ![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-PHP-474A8A?logo=PHP&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white&style=for-the-badge)
