@@ -11,12 +11,15 @@
 <a href="https://linkedin.com/in/gpamic" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="gpamic"  /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages</h3>
 
-![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-PHP-474A8A?logo=PHP&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-PHP-474A8A?logo=PHP&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
+<h3 align="left">Tools</h3>
+
 ![image](https://img.shields.io/badge/-React-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=for-the-badge)
